@@ -1,4 +1,4 @@
-# [ADR] Raspberry Pi 기반 데이터 수집 서버버 도입
+# [ADR] Raspberry Pi 기반 데이터 수집 서버 도입
 
 ## 1. 배경 (Context)
 * 서비스의 기능인 **유튜브 콘텐츠 분석 및 자막 수집** 기능을 구현하여 Vercel(Frontend) 및 AWS Lambda(Backend) 환경에서 배포 및 테스트를 진행했습니다.
