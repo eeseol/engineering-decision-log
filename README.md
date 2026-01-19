@@ -15,7 +15,7 @@
 기획부터 아키텍처 설계, 인프라 구축, 서비스 개발까지 1인 주도로 전 과정을 수행하고 있습니다.
 
 <p align="center">
-  <a href="./docs/ARCHITECTURE.md">
+  <a href="./ARCHITECTURE.md">
     <img src="./docs/images/system-architecture.png" width="100%" alt="System Architecture">
   </a>
   <br>
