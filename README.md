@@ -14,6 +14,14 @@
 
 기획부터 아키텍처 설계, 인프라 구축, 서비스 개발까지 1인 주도로 전 과정을 수행하고 있습니다.
 
+<p align="center">
+  <a href="./docs/ARCHITECTURE.md">
+    <img src="./docs/images/system-architecture.png" width="100%" alt="System Architecture">
+  </a>
+  <br>
+  <em>(이미지를 클릭하면 상세 아키텍처 설계 문서로 이동합니다.)</em>
+</p>
+
 ### 🌟 Key Features
 
 * **Data Intelligence**: 뉴스, 유튜브 등 다양한 채널의 입력 정보 수집 및 요약정리
