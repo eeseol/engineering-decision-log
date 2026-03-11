@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="./ARCHITECTURE.md">
-    <img src="./docs/images/system-architecture.png" width="100%" alt="System Architecture">
+    <img src="./docs/images/system-architecture_1.png" width="100%" alt="System Architecture">
   </a>
   <br>
   <em>(이미지를 클릭하면 상세 아키텍처 설계 문서로 이동합니다.)</em>
