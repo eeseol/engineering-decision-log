@@ -9,7 +9,7 @@
 ## 🖼️ Architecture Diagram
 
 <p align="center">
-    <img src="./docs/images/system-architecture.png" width="100%" alt="System Architecture">
+    <img src="./docs/images/system-architecture_1.png" width="100%" alt="System Architecture">
 </p>
 
 ---
